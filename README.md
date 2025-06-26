@@ -1,3 +1,5 @@
+
+[logo](https://i.ibb.co/dsGnXPpF/Screenshot-2025-04-28-131009.png)
 <h1 align="center">Hi 👋, I'm Sajedul tahsin</h1>
 <h3 align="center">A passionate mern stack developer from BD</h3>
 
@@ -33,6 +35,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajedul4d&show_icons=true&locale=en" alt="sajedul4d" /></p>
 
-<p><img align="center" src="https://miro.medium.com/v2/resize:fit:960/1*_RNtDmG7L6a-63Qf5Hiyyw.gif" alt="sajedul4d" /></p>
+<p><img align="center" width="300" src="https://miro.medium.com/v2/resize:fit:960/1*_RNtDmG7L6a-63Qf5Hiyyw.gif" alt="sajedul4d" /></p>
 
 

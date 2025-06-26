@@ -1,7 +1,7 @@
-
+<img src="https://i.ibb.co/HpKKxmSp/Screenshot-2025-04-28-132930.png"  />
 <h1 align="center">Hi 👋, I'm Sajedul tahsin</h1>
 <h3 align="center">A passionate mern stack developer from BD</h3>
-<img src="https://i.ibb.co/HpKKxmSp/Screenshot-2025-04-28-132930.png"  />
+
 
 - 🔭 I’m currently working on [Back-end](Comming soon)
 

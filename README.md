@@ -1,5 +1,5 @@
 
-[logo](https://i.ibb.co/dsGnXPpF/Screenshot-2025-04-28-131009.png)
+| [logo](https://i.ibb.co/dsGnXPpF/Screenshot-2025-04-28-131009.png)
 <h1 align="center">Hi 👋, I'm Sajedul tahsin</h1>
 <h3 align="center">A passionate mern stack developer from BD</h3>
 
